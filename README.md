@@ -1,0 +1,2 @@
+# manual_kmeans
+python手动实现图像像素的kmeans聚类
